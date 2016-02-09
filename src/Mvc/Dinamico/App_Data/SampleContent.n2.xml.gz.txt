@@ -1,0 +1,2 @@
+<img src="../../Dinamico/Themes/Default/Thumbnail.jpg" style="float:left; width:33%; margin-right:10px;"/>
+<b>Sample Data</b> with multiple languages and themes

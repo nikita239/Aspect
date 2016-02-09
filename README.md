@@ -1,3 +1,7 @@
-## Welcome to N2CMS
 
-метрики
+Аспекты находятся в папке src/Aspect/
+
+
+Описание аспектов приведено в документе AspectDescription.doc
+
+
